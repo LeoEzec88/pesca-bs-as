@@ -1,0 +1,17 @@
+# Dependencias del sistema operativo y de Git
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# Frontend
+/frontend/node_modules
+/frontend/build
+/frontend/dist
+
+# Backend
+/backend/__pycache__
+/backend/*.pyc
+/backend/.venv
+/backend/venv
+/backend/.env
